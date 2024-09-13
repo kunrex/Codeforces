@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/2010/C1
 using System.Text;
 
 namespace Codeforces.MessageTransmission_Easy_;
